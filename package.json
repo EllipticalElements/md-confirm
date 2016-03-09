@@ -1,7 +1,7 @@
 {
   "name": "md-confirm",
-  "description": "md-confirm",
-  "version": "1.0.0",
+  "description": "material design confirmation component",
+  "version": "1.0.1",
   "author": "S. Francis",
   "license": "MIT",
   "repository": {

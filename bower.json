@@ -1,10 +1,10 @@
 {
   "name": "md-confirm",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "authors": [
     "S. Francis"
   ],
-  "description": "",
+  "description": "material design confirmation component",
   "keywords": [
     "web-component",
     "polymer",
@@ -13,7 +13,7 @@
   ],
   "main": "md-confirm.html",
   "license": "MIT",
-  "homepage": "https://github.com/EllipticalElements/md-confirm/",
+  "homepage": "https://github.com/EllipticalElements/md-confirm",
   "ignore": [
     "/.*",
     "/test/",

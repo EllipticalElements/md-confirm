@@ -40,7 +40,7 @@
   ],
   "dependencies": {
     "polymer": "Polymer/polymer#^1.0.0",
-    "elliptical-polymer-behaviors": "~1.1.0",
+    "elliptical-polymer-behaviors": "~1.2.0",
     "neon-animation": "PolymerElements/neon-animation#~1.2.2"
   },
   "devDependencies": {
